@@ -17,6 +17,8 @@ I build clean, user-focused interfaces that balance design quality, accessibilit
 - Portfolio and marketing site design systems
 - UX-focused implementation
 
+<hr>
+
 ### Skills
 
 HTML5 · CSS / SCSS · JavaScript · React · WordPress · Accessibility · Responsive design · Front-end architecture
@@ -30,6 +32,8 @@ HTML5 · CSS / SCSS · JavaScript · React · WordPress · Accessibility · Resp
 - [wordpress-dev-boilerplate](https://github.com/gemmagentles/wordpress-dev-boilerplate) — a reusable WordPress starter setup
 - [rentestate](https://github.com/gemmagentles/rentestate) — WordPress website for a property-rental business
 - [fraservalley](https://github.com/gemmagentles/fraservalley) — website for the Fraser Valley Gaels Football Club
+
+<hr>
 
 ### Contact
 
