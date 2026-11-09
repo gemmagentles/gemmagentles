@@ -1,6 +1,8 @@
 # Hi, I’m Gemma 👋
 
-Front-End Web Developer focused on building responsive, accessible, and polished user interfaces.
+Front-End Web Developer creating responsive, accessible, and polished web experiences.
+
+Open to front-end / UI developer opportunities.
 
 <table>
 <tr>
@@ -8,12 +10,12 @@ Front-End Web Developer focused on building responsive, accessible, and polished
 
 ### What I do
 
-I enjoy turning designs into fast, clean, user-friendly experiences, with a strong interest in:
+I build clean, user-focused interfaces that balance design quality, accessibility, and performance. My work spans:
 - HTML / CSS / JavaScript
 - Accessible front-end development
 - WordPress and custom theme builds
 - Portfolio and marketing site design systems
-- UX-focused front-end implementation
+- UX-focused implementation
 
 ### Skills
 
