@@ -28,10 +28,14 @@ HTML5 · CSS / SCSS · JavaScript · React · WordPress · Accessibility · Resp
 
 ### Featured work
 
-- [portfolio-2026](https://github.com/gemmagentles/portfolio-2026) — hand-coded portfolio built with HTML, SCSS, and vanilla JS
-- [wordpress-dev-boilerplate](https://github.com/gemmagentles/wordpress-dev-boilerplate) — a reusable WordPress starter setup
-- [rentestate](https://github.com/gemmagentles/rentestate) — WordPress website for a property-rental business
-- [fraservalley](https://github.com/gemmagentles/fraservalley) — website for the Fraser Valley Gaels Football Club
+- [portfolio-2026](https://github.com/gemmagentles/portfolio-2026)<br>
+  Hand-coded portfolio built with HTML, SCSS, and vanilla JS
+- [wordpress-dev-boilerplate](https://github.com/gemmagentles/wordpress-dev-boilerplate)<br>
+  A reusable WordPress starter setup
+- [rentestate](https://github.com/gemmagentles/rentestate)<br>
+  WordPress website for a property-rental business
+- [fraservalley](https://github.com/gemmagentles/fraservalley)<br>
+  Website for the Fraser Valley Gaels Football Club
 
 <hr>
 
