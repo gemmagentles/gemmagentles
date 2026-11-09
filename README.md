@@ -2,7 +2,7 @@
 
 Front-End Web Developer creating responsive, accessible, and polished web experiences.
 
-Open to front-end / UI developer opportunities.
+Open to front-end / UI developer opportunities, with a preference for hybrid work.
 
 <table>
 <tr>
